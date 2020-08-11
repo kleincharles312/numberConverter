@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberConverterAPI", "NumberConverterAPI\NumberConverterAPI.csproj", "{4A7FA77C-AAFF-474C-A13D-53B0F578CA30}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberConverter.Tests", "NumberConverter.Tests\NumberConverter.Tests.csproj", "{BDE9D576-080B-400B-8B63-960C3251EAD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A7FA77C-AAFF-474C-A13D-53B0F578CA30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A7FA77C-AAFF-474C-A13D-53B0F578CA30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A7FA77C-AAFF-474C-A13D-53B0F578CA30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A7FA77C-AAFF-474C-A13D-53B0F578CA30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDE9D576-080B-400B-8B63-960C3251EAD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE9D576-080B-400B-8B63-960C3251EAD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE9D576-080B-400B-8B63-960C3251EAD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE9D576-080B-400B-8B63-960C3251EAD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47F84120-0B53-4962-858F-AD6B4EFA6077}
+	EndGlobalSection
+EndGlobal

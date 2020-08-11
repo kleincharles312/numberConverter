@@ -1,0 +1,16 @@
+C:\Users\Student\git\side-projects\NumberConverterAPI\NumberConverterAPI\obj\Debug\netcoreapp2.2\NumberConverterAPI.csprojAssemblyReference.cache
+C:\Users\Student\git\side-projects\NumberConverterAPI\NumberConverterAPI\obj\Debug\netcoreapp2.2\NumberConverterAPI.RazorAssemblyInfo.cache
+C:\Users\Student\git\side-projects\NumberConverterAPI\NumberConverterAPI\obj\Debug\netcoreapp2.2\NumberConverterAPI.RazorAssemblyInfo.cs
+C:\Users\Student\git\side-projects\NumberConverterAPI\NumberConverterAPI\obj\Debug\netcoreapp2.2\NumberConverterAPI.AssemblyInfoInputs.cache
+C:\Users\Student\git\side-projects\NumberConverterAPI\NumberConverterAPI\obj\Debug\netcoreapp2.2\NumberConverterAPI.AssemblyInfo.cs
+C:\Users\Student\git\side-projects\NumberConverterAPI\NumberConverterAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Student\git\side-projects\NumberConverterAPI\NumberConverterAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Student\git\side-projects\NumberConverterAPI\NumberConverterAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Student\git\side-projects\NumberConverterAPI\NumberConverterAPI\bin\Debug\netcoreapp2.2\NumberConverterAPI.deps.json
+C:\Users\Student\git\side-projects\NumberConverterAPI\NumberConverterAPI\bin\Debug\netcoreapp2.2\NumberConverterAPI.runtimeconfig.json
+C:\Users\Student\git\side-projects\NumberConverterAPI\NumberConverterAPI\bin\Debug\netcoreapp2.2\NumberConverterAPI.runtimeconfig.dev.json
+C:\Users\Student\git\side-projects\NumberConverterAPI\NumberConverterAPI\bin\Debug\netcoreapp2.2\NumberConverterAPI.dll
+C:\Users\Student\git\side-projects\NumberConverterAPI\NumberConverterAPI\bin\Debug\netcoreapp2.2\NumberConverterAPI.pdb
+C:\Users\Student\git\side-projects\NumberConverterAPI\NumberConverterAPI\obj\Debug\netcoreapp2.2\NumberConverterAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Student\git\side-projects\NumberConverterAPI\NumberConverterAPI\obj\Debug\netcoreapp2.2\NumberConverterAPI.dll
+C:\Users\Student\git\side-projects\NumberConverterAPI\NumberConverterAPI\obj\Debug\netcoreapp2.2\NumberConverterAPI.pdb
