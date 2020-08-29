@@ -1,6 +1,6 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using NumberConverterAPI.Models;
+using NumberConverterAPI.Service;
 
 namespace NumberConverter.Tests
 {

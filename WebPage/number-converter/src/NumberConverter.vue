@@ -18,21 +18,18 @@ export default {
 <style>
 
 body {
-    display:grid;
-    grid-template-columns: 100px 1fr 1fr 100px;
-    grid-template-rows: 100px 1fr 1fr 100px;
-    grid-template-areas: 
-        ". . . ."
-        ". main main ."
-        ". main main ."
-        ". . . ."
-    ;
+   height: 100vh;
+   width: 100vw;
+   background-image: url('./assets/purple-ship.jpg');
+   background-color: black;
+   display: flex;
+   align-content: center;
 }
 
 #number-converter {
-    grid-area: main;
-    height: 100%;
-    width: 100%;
+    width: 70%;
+    height: 50%;
+    margin: auto;
     text-align: center;
 }
 </style>

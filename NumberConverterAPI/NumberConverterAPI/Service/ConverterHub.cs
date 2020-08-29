@@ -20,7 +20,6 @@ namespace NumberConverterAPI.Service
         {
             numberToConvert = number;
             originalType = type;
-
         }
 
         public ReturnedNumbers PerformConversion()
