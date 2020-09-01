@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const http = axios.create({
-    baseURL: process.env.baseURL
+    baseURL: 'http://localhost:4320/api/'
 })
 
 export default {
@@ -13,7 +13,7 @@ export default {
      * 
      * @returns {Object} 
      */
-    getConversion(number, type){
-        http.get(`convert?number=${number}&type=${type}`);
+    getConversion(number, type) {
+        return http.get(`convert?number=${number}&type=${type}`);
     }
 }

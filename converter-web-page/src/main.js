@@ -4,5 +4,5 @@ import NumberConverter from './NumberConverter.vue'
 Vue.config.productionTip = false
 
 new Vue({
-  render: h => h(NumberConverter),
+  render: h => h(NumberConverter)
 }).$mount('#number-converter')
